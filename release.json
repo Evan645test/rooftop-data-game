@@ -1,0 +1,64 @@
+{
+  "title": "屋頂上的數據",
+  "version": "0.2-picture-interpretation+guidance.20261012",
+  "prepared_at": "2026-10-12T10:00:44.138618+00:00",
+  "game_config_version": "0.2-picture-interpretation",
+  "parts": [
+    {
+      "name": "game.zip.part000",
+      "bytes": 50331648,
+      "sha256": "ce6df148907e758719831d06a24678d93d36cb71b7f54231e97126b6c9f8679e"
+    },
+    {
+      "name": "game.zip.part001",
+      "bytes": 50331648,
+      "sha256": "fea08610b838a1a31e38f3d3dcf02a500f8a36c736cd25c999aee3ccd940ac50"
+    },
+    {
+      "name": "game.zip.part002",
+      "bytes": 50331648,
+      "sha256": "ded1d63ea03ab13811a5e7780033bb96bf7e258363dd382e4aed779c7f4cf9de"
+    },
+    {
+      "name": "game.zip.part003",
+      "bytes": 45436699,
+      "sha256": "598f06ea0ddc858b50ac16e7a871a46e68e025162ea931702fbec5a6c2a93db3"
+    }
+  ],
+  "files": {
+    "game.zip": "c8241c2c6cb96bf4bcd17df96eba6de94cf0f3ee98bb801122c7d87402c13f8e",
+    "icons/icon-128x128-maskable.png": "fb63f4ce9fc2b4a2be8ff23324798ad4c5f7c4fd9c8901f9afc67ff31a3bd624",
+    "icons/icon-128x128.png": "a4235507b3af175e27e91d75e7e03e879540a30583ebfc022c2e80590d30642a",
+    "icons/icon-144x144-maskable.png": "1061260f16939971ce91fdc57b5a79077cfb3e78811193aa58f00fcd61bfc4ba",
+    "icons/icon-144x144.png": "8f872f69658fd0b789ffb6f6339f86950bc2614880ffc372cfafff62a72d9c63",
+    "icons/icon-152x152-maskable.png": "c26d8bb381d05a896fd430400da0f81753cafae451029619249e14fe2d182039",
+    "icons/icon-152x152.png": "5d6ff9dffb99a087c19e45a1fc2f6b6116fa9918f8b9b701a3843e94d41a8e78",
+    "icons/icon-192x192-maskable.png": "1503cbffc1fd6e333a3d21fc83860de8c4c45de75c017d3bfe112d32b46af491",
+    "icons/icon-192x192.png": "4263da10662ec475a9d25cce786f68f627a5497e672ff77c8392e38b4e479e8e",
+    "icons/icon-384x384-maskable.png": "e4488f59e6d02ee23c7007a6ab583ec1e9f9d844618b34990d72fea54c932922",
+    "icons/icon-384x384.png": "1f1b1550bfdd5cec06e240e26b2f2fc259a6159fa7b6a7a4c2a9baa10cf3478c",
+    "icons/icon-512x512-maskable.png": "f5f92fb9b238bb08a30d0a893e00eaf8100d2d8322e644a45aeac2d093afdae3",
+    "icons/icon-512x512.png": "e3cb2d724290b1f7376e4962cefab74a0a6bfeab89440f6db601122b013d45c7",
+    "icons/icon-72x72-maskable.png": "4692b0053ffc5715b12fc422a84c5889849ac8d8e0f279a6e40dd1b01137189d",
+    "icons/icon-72x72.png": "874b39fcde72b9951de6301db3078c6833f6898d02acded94218d4fb739d63df",
+    "icons/icon-96x96-maskable.png": "e65f20aa91b9f2305213b9cf945faaf50971f9cae9a321a133047b4b5beb7364",
+    "icons/icon-96x96.png": "23eba9c850a0991808c64883feb7edae53a84319da3ce9ef01c66e85e931e9b0",
+    "index.html": "9384d7083d5759435db787e2ad1a04a7aa690b72d2ce63920ca42a7e58ed3131",
+    "index.html.symbols": "d9bd1ce2d430721b78dc15d3b61b3f16f42b7e619546fe48893e51109ab365ba",
+    "manifest.json": "a3c49c3d744ca61ab9c09e8ea6962679f6e5ef8ef3ee6bea438229951fb9f8ad",
+    "prototype/Iansui-Regular.ttf": "7f1aa62e9dcbf40d0ce41a5d3f1e5ea602e66c295778ac6fefb6b84d8ed08bd5",
+    "prototype/notebook-web.js": "78b29bc3ba2b3729e030a359adde305c4f9288f54de34e0062578755cb04cbe4",
+    "pwa_catalog.json": "21b1c1896a7db01439d3b95df905f9b4e99bed3bc1533f9ad3aa6bf32cb47bab",
+    "renpy-pre.js": "aef6c9d0aee065bc33e19c5e0cbea4d3e1fd0d1abc08fecc30c1a2a1212c3820",
+    "renpy.data": "d1c97ee9a4f9a11ba5ee099849549eccb35398b9349fc8b9003ec804d89ec969",
+    "renpy.js": "1d1dd6c49a2c31499f2288806162a2de981c2a183186acf3ca2be0f1be7658cd",
+    "renpy.wasm": "0973f8a726393f132871687b14db620c2b39292aae3351c620be01a186d400e3",
+    "service-worker.js": "94bd36c2a78ee1378b4ad98e89998799c38fccc88263a338cfd93d519bf09b71",
+    "web-presplash.jpg": "b6b7f0ff892cb02791a351c9805e0dfc8e3c1b359a8d30269dd68e3435c9a75d"
+  },
+  "build": {
+    "files": 323,
+    "engine_payloads_unchanged": 432,
+    "original_files_unchanged": 1042
+  }
+}

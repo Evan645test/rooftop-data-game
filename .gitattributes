@@ -1,0 +1,3 @@
+payload/* binary
+web/*.wasm binary
+web/*.data binary
